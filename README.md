@@ -1,7 +1,7 @@
 # README👋
 ## 😄자기소개 
 <img width="50%" src="https://user-images.githubusercontent.com/115774339/198040733-3bb5ff29-d085-4947-9a16-f1518448dabf.jpg"/>
-
+- **이름**
 <!--
 **guyseoklee/guyseoklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
