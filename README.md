@@ -36,18 +36,19 @@
    - python
    - R
    
-    and so on..
+  and so on..
    
 ## 계획
 1. 남은 학기 성적 장학금
 2. 성적 4점대 유지
 3. 공모전 참여해보기
+4. 창업 동아리 들어보기
 
 ## 좌우명
 
-     *it's not your(my) fault*
+     it's not your(my) fault
      
- <img width="80%" src="https://user-images.githubusercontent.com/115774339/198040733-3bb5ff29-d085-4947-9a16-f1518448dabf.jpg"/>
+ <img width="80%" src="https://user-images.githubusercontent.com/115774339/198047752-25e90f73-8564-419a-b830-a2e5d9bfcb50.jpg"/>
 <!--
 **guyseoklee/guyseoklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
