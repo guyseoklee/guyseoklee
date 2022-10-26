@@ -1,4 +1,6 @@
-### Hi there 👋
+# README👋
+## 😄자기소개 
+<img width="{해상도 비율}" src="{이미지 경로}"/>
 
 <!--
 **guyseoklee/guyseoklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
